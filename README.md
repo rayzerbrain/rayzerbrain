@@ -14,4 +14,4 @@ Anything I feel like making at the time
 ### Find me on discord
 Username: rayzer#2948
 
-I help with this SCP:SL server too : 
+I help with this SCP:SL server too : https://discord.gg/Yw7XHb5xq
