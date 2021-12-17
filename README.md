@@ -1,8 +1,8 @@
 # About me
 ### Languages
-Familiar with: C#, JavaScript
+Familiar with: C#, Java
 
-Learning: Java, Python
+Learning: Python
 
 Soon to learn: SQL
 ### Ongoing Projects
