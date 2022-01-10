@@ -2,9 +2,9 @@
 ### Languages
 Familiar with: C#, Java
 
-Learning: Python
+Learning: SQL
 
-Soon to learn: SQL
+Please do not remind me of: Python
 ### Ongoing Projects
 Making random EXILED plugins
 
