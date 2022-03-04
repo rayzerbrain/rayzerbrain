@@ -2,6 +2,6 @@
 ### Languages
 Familiar with: C#, Java
 
-Learning: SQL
+Acquainted with: Python
 
-Please do not remind me of: Python
+Learning: SQL
