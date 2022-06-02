@@ -2,6 +2,6 @@
 ### Languages
 Familiar with: C#, Java
 
-Acquainted with: Python
+Acquainted with: Python, SQL
 
-Learning: SQL
+Wanting to learn: C++/C, JavaScript/HTML/CSS
