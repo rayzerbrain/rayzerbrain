@@ -4,4 +4,6 @@ Familiar with: C#, Java
 
 Acquainted with: Python, SQL
 
-Wanting to learn: C++/C, JavaScript/HTML/CSS
+Learning: JS/HTML/CSS
+
+Wanting to learn: C++/C
