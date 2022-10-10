@@ -6,4 +6,4 @@ Acquainted with: Python, SQL
 
 Learning: JS/HTML/CSS
 
-Wanting to learn: C++/C
+Attempting to learn: C++/C
